@@ -1,0 +1,123 @@
+{
+  "basic_info": {
+    "description_header": "こんにちは、マイプロフィールへようこそ！",
+    "description": "👋 グエンヴァン　テイと申します。ベトナムのダックラックから来ました .システム開発者とし、 Html&Css,JavaScript と Reactjs,Bootstrap　でユーザーインタフェースを作成することを担当しています",
+
+
+
+    "section_name": {
+      "about": "自己紹介",
+      "projects": "自己啓発",
+      "skills": "私のスキル",
+      "experience": "経験"
+    }
+  },
+  "projects": [
+    {
+      "title": "カレンダー管理プロジェクト",
+      "startDate": "2022",
+      "description": " 仕事のスケジュールを管理するためのぷろじぇくと",
+      "linkGithub": "https://github.com/jose142857/Spring-miniProject",
+      "images": [
+        "images/portfolio/class management/calendar.jpg",
+        "images/portfolio/class management/admin.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring boot"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "ショッピー",
+      "startDate": "2023.2",
+      "description": "Html＆Css、Javascriptを復習するとし、ベトナムのショッピーウェブサイトのシミュレーターを作成しました。",
+      "linkGithub": "https://github.com/jose142857/Shopee_Project",
+      "images": [
+        "images/portfolio/shoppee/shopee.png",
+        "images/portfolio/shoppee/shopee2.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "linkGithub": "#",
+
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "メイテックフィールダーズ",
+      "title": "フロントエンドデヴェロッパー",
+      "years": "2022.7-2022.12",
+      "mainTech": [
+        "Java　17"
+      ],
+      "technologies": [
+        "My SQL",
+        "JavaScript",
+        "Bootstrap",
+        "Spring Boot"
+      ]
+    },
+    {
+      "company": "リッケイジャパン",
+      "title": "研修生",
+      "years": "2023.2 - 現在",
+      "mainTech": [
+        "Javascript"
+      ],
+      "technologies": [
+        "Html＆Css",
+        "Javascript",
+        "ReactJs",
+        "Bootraps"
+      ]
+    }
+  ]
+}
