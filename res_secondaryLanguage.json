@@ -91,37 +91,31 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Meitec Fields",
+      "title": "Front-end-developer",
+      "years": "2022.7-2022.12",
       "mainTech": [
-        "Angular 8/9/10"
+        "Java　17"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
+        "My SQL",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Spring Boot"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Rikkei Japan",
+      "title": "Internship",
+      "years": "2023.2 - present",
       "mainTech": [
-        "Angular 7/8"
+        "Javascript"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Html＆Css",
+        "Javascript",
+        "ReactJs",
+        "Bootraps"
       ]
     }
   ]
